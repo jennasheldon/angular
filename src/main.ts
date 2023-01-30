@@ -15,7 +15,7 @@ import { bootstrapApplication } from '@angular/platform-browser';
   `,
 })
 export class App {
-  name = 'Club Hub';
+  name = 'Club Hub Jenna';
 }
 
 bootstrapApplication(App);
